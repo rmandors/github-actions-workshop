@@ -57,7 +57,7 @@ jobs:
         run: docker build -t github-actions-workshop:latest . 
 
   docker-push:
-    runs-n: ubuntu-latest
+    runs-on: ubuntu-latest
     needs: docker-build 
     
     if: github.event_name == 'push'
