@@ -3,8 +3,8 @@
 
 Este repositorio fue creado como base práctica para aprender los fundamentos de **CI/CD** usando una aplicación sencilla en Python. El objetivo del workshop es entender cómo un cambio en código pasa por validaciones automáticas, se empaqueta como imagen Docker, se publica en un registry y finalmente se despliega en distintos ambientes.
 
-**Dev Deployment en Render:** https://github-actions-workshop-dev-3lzd.onrender.com
-**Prod Deployment en Render:** https://github-actions-workshop-prod-753h.onrender.com
+ - **Dev Deployment:** https://github-actions-workshop-dev-3lzd.onrender.com
+ - **Prod Deployment:** https://github-actions-workshop-prod-753h.onrender.com
 
 Al finalizar el workshop, el flujo completo debe permitir:
 
